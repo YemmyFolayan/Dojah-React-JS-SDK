@@ -8,7 +8,7 @@ const App = () => {
    * https://dojah.io/dashboard
    * to create an app and retrieve it)
    */
-  const appID = "6194f5f3c423930034a33f16";
+  const appID = "";
 
   /**
    *  This is your account public key
@@ -16,7 +16,7 @@ const App = () => {
    *  https://dojah.io/dashboard to
    *  retrieve it. You can also regenerate one)
    */
-  const publicKey = "prod_pk_GB4WvY5xhNx2JlksqBu9Cd0SI";
+  const publicKey = "";
 
   /**
    *  This is the widget type you'd like to load
