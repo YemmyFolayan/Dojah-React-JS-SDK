@@ -37,7 +37,7 @@ const App = () => {
    *  available to the `verification` widget
    */
    const config = {
-    debug: true,
+    //debug: true,
     //webhook: true, //Before you set webhook to true, Ensure you are subscribed to the webhook here https://api-docs.dojah.io/docs/subscribe-to-services
     // pages: [
     //   {
@@ -60,7 +60,7 @@ const App = () => {
     // ],
 
 
-    widget_id: "64fefb41419cbc00400249ce",
+    widget_id: "",
 
   };
 
@@ -107,3 +107,7 @@ const App = () => {
 }
 
 export default App
+
+
+
+//"react": "^16.13.1",
